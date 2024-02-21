@@ -1,0 +1,24 @@
+creating an lstm...	
+seeding with |①|
+
+	
+--------------------------	
+|①|
+
+|	|⑥&##$$$$/&##|②monster|⑤L&^^^^^|④at the start of the battle phase: you can special summon this card from your hand, and if you do, if this card is destroyed, inflict &$$$$$$$$ damage to your opponent.|②monster|⑩&^^|⑪&^^^^^^^^ &^ &^^^|③E
+
+|③trap|①amorphage gerfrot|④during damage calculation: you can special summon this card from your hand, then you can discard &^ card, then target &^ face-up monster your opponent controls; change its total to battle damage you took. if this card in the monster zone is destroyed: you can place this card in your pendulum zone.|②monster|	|③W
+
+|⑥&##$$$$/&##|⑤L&^^^^^|③D|⑦spellcaster effect|	|②monster|④you can tribute this card; special summon &^ "zoodiac" monster from your deck in face-up attack position.|①battlewasp - harmatic fanging|②spell
+
+|④when you take battle damage: you can banish this card from your graveyard; add &^ "battlin' boxer" monster from your deck to your hand.|①magical brothers|⑥&#/&$$$$$|	|③F|②monster|⑦warrior effect|⑤L&^^^
+
+|⑦beast-warrior synchro effect|	|③D|④&^ tuner + &^+ non-tuner monsters\if this card is synchro summoned: you can special summon it to your field, and you shuffle the rest back into your deck. if this card is sent to the gy by a card effect: you can special summon this card. you can only use each effect of "brilliant resonator" once per turn.|⑥&##$$$$/&#|②monster|①d/d/d vice king of dark barrier|③E
+
+|②monster|④|⑥&#/&#$$$$$|	|①kozmo and laudy|③D|⑦fairy normal|⑤L&^^^^
+
+|①archfiend's swap|④(this card is always treated as a "familiar-possessed" card and sent to the graveyard by the effect of a spell or trap card.|⑤L&^^^^|③F|	|⑦fairy pendulum effect|①bujincarnation
+
+|⑦machine pendulum effect|⑥&#$$$$$$$$/&#|②monster|⑤L&^^^^|③E|	|④when this card is normal or special summoned: you can send &^ "gem-knight" or "fallen of albaz" from your hand or gy to this card and the normal summon while you control "the sanctuary in the sky", but its effects are negated. you can only use this effect of "kozmo skall gigagoay, genese" once per turn. once per turn: you can target &^ other monster you control; this turn, its effects are negated.
+
+|①gaia drake squ
